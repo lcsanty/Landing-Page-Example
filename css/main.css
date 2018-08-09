@@ -6,15 +6,6 @@ html {
   box-sizing: inherit;
 }
 
-
-
-
-
-
-
-
-
-
 /* Body Setup */
 body {
   font-family: 'Fira Sans', sans-serif;
@@ -38,14 +29,6 @@ body {
   }
 }
 
-
-
-
-
-
-
-
-
 /* List Styles */
 ul,
 ol {
@@ -57,14 +40,6 @@ ol {
 li {
   padding: 20px 0;
 }
-
-
-
-
-
-
-
-
 
 
 /* Font Styles */
@@ -100,15 +75,6 @@ p {
   margin: 0;
 }
 
-
-
-
-
-
-
-
-
-
 /* Link Styles */
 a,
 a:active,
@@ -117,15 +83,6 @@ a:visited {
   color: hsl(95,65%,61%);
   font-weight: 500;
 }
-
-
-
-
-
-
-
-
-
 
 /* CTA Link Styles */
 a.cta {
@@ -194,16 +151,6 @@ a.cta:hover {
   transform: rotate(135deg);
 }
 
-
-
-
-
-
-
-
-
-
-
 /* Wrapper Setup */
 .wrapper {
   padding: 0 15px;
@@ -231,16 +178,7 @@ a.cta:hover {
   }
 }
 
-
-
-
-
-
-
-
-
 /* Mobile Menu */
-
 .mobile-menu {
   position: fixed;
   top: 20px;
@@ -289,25 +227,6 @@ a.cta:hover {
     display: none;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Header Styles */
 .site-header {
@@ -361,7 +280,6 @@ li.not-mobile {
   display: none;
 }
 
-
 @media screen and (min-width: 680px) {
   .site-header {
     height: 70px;
@@ -400,15 +318,6 @@ li.not-mobile {
   }
 
 }
-
-
-
-
-
-
-
-
-
 
 /* Banner Styles */
 .banner {
@@ -558,15 +467,6 @@ li.not-mobile {
   }
 }
 
-
-
-
-
-
-
-
-
-
 /* Mission Styles */
 .mission {
   text-align: center;
@@ -615,15 +515,6 @@ li.not-mobile {
     order: 1;
   }
 }
-
-
-
-
-
-
-
-
-
 
 /* Degrees Style */
 .degrees {
@@ -723,15 +614,6 @@ li.not-mobile {
     grid-template-rows: 300px 300px;
   }
 }
-
-
-
-
-
-
-
-
-
 
 /* Features Styles */
 .features {
@@ -834,8 +716,6 @@ li.not-mobile {
     flex: 0 0 47%;
     margin: 0;
   }
-
-
 }
 
 @media screen and (min-width: 960px) {
@@ -865,17 +745,7 @@ li.not-mobile {
   }
 }
 
-
-
-
-
-
-
-
-
-
 /* Pricing Styles */
-
 .pricing {
   text-align: center;
   background-color: hsl(95,65%,61%);
@@ -946,16 +816,7 @@ li.not-mobile {
   }
 }
 
-
-
-
-
-
-
-
-
 /* Faq styles */
-
 .faq {
   text-align: center;
 }
@@ -1008,7 +869,6 @@ li.not-mobile {
   margin-bottom: 15px;
 }
 
-
 @media screen and (min-width: 680px) {
   .faq-grid {
     display: grid;
@@ -1047,15 +907,7 @@ li.not-mobile {
   }
 }
 
-
-
-
-
-
-
-
 /* Footer Styles */
-
 footer {
   background-color: #fff;
   padding-top: 20px;
