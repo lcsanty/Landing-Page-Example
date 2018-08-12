@@ -1,3 +1,5 @@
+ //Click Event To Open Menu On Mobile Devices
+
 let button = document.querySelector(".icon");
 let lock = document.body;
 let mobile = document.querySelector(".mobile-menu");
