@@ -197,6 +197,7 @@ a.cta:hover {
 .mobile-menu {
   position: fixed;
   top: 20px;
+  left: 700px;
   width: 100%;
   height: 100vh;
   background-color: hsl(95,65%,61%);
@@ -234,6 +235,7 @@ a.cta:hover {
 
 .show {
   opacity: 1;
+  left: 0px;
 }
 
 .mobile-list.show {
